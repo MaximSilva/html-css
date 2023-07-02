@@ -1,0 +1,25 @@
+html, body {
+    font-size: 16px;
+}
+div {
+
+    width: 80%;
+    max-width: 85rem;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625930315_50-kartinkin-com-p-tuman-tekstura-krasivo-56.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 2rem;
+    border: 80%;
+    margin: 0 auto;
+
+}
+a {
+    vertical-align: top;
+    color: rgb(0, 0, 0);
+    border: 1px solid #c6c6c6;
+    
+}
+img
+{
+    width: 40rem;
+}
